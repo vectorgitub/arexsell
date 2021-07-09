@@ -4,4 +4,9 @@ App for stock control
 
 ### Stack
 
-Made with Python, Django and Django Ninja
+Made with:
+Python
+Django
+Django Ninja
+
+Docs: api/docs
