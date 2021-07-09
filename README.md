@@ -1,7 +1,7 @@
 # arexsell
-App for stock control
 
+App for stock control
 
 ### Stack
 
-Made with Python / Django Ninja
+Made with Python, Django and Django Ninja
